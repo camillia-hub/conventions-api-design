@@ -6,11 +6,11 @@ Conventions pack for Camillia workspaces: opinionated HTTP API conventions cover
 
 | File | Convention |
 | --- | --- |
-| `conventions/resources-and-paths.md` | Plural kebab-case nouns, no verbs in paths, nesting limits. |
-| `conventions/errors.md` | The single error envelope and the RFC 9457 problem-details alternative. |
-| `conventions/pagination-and-filtering.md` | Cursor pagination, filter and sort query parameters. |
-| `conventions/versioning.md` | Version via Accept header, breaking-change policy, sunsets. |
-| `conventions/idempotency.md` | `Idempotency-Key` contract for safe POST retries. |
+| `conventions/cam-ext-api-design-resources-and-paths.md` | Plural kebab-case nouns, no verbs in paths, nesting limits. |
+| `conventions/cam-ext-api-design-errors.md` | The single error envelope and the RFC 9457 problem-details alternative. |
+| `conventions/cam-ext-api-design-pagination-and-filtering.md` | Cursor pagination, filter and sort query parameters. |
+| `conventions/cam-ext-api-design-versioning.md` | Version via Accept header, breaking-change policy, sunsets. |
+| `conventions/cam-ext-api-design-idempotency.md` | `Idempotency-Key` contract for safe POST retries. |
 
 ## Install
 
